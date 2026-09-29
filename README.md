@@ -1,51 +1,111 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/profile-header-mobile.svg" />
+    <img src="assets/profile-header.svg" width="100%" alt="Manuel David Maya Rosero — Data engineering, backend systems and applied AI. Paris, France." />
+  </picture>
+</p>
 
-# Manuel David Maya Rosero
+<p align="center">
+  <a href="https://manuelma4.github.io/"><img src="assets/portfolio-link.svg" height="34" alt="Explore my portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/manueldmaya/"><img src="assets/linkedin-link.svg" height="34" alt="Connect on LinkedIn" /></a>
+</p>
 
-### Data engineering · Backend systems · Applied AI
+<br />
 
-Software engineer based in Paris, France.
+Software engineer focused on data engineering, backend systems and applied AI. At **MODUO Ingénierie**, I work as an AI Software Architect, taking responsibility for architectural decisions, development and server operations.
 
-[Portfolio](https://manuelma4.github.io/) · [LinkedIn](https://www.linkedin.com/in/manueldmaya/)
+I collaborate with engineers and domain experts to turn construction workflows into useful software. My interests include **reliable data pipelines, distributed systems and observability**.
 
-</div>
+<br />
 
----
+## Engineering in practice
 
-I build internal platforms, APIs and data workflows, taking responsibility for architecture, development, deployment and maintenance. My focus is on making systems useful to the people who rely on them and dependable as they evolve.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Platforms &amp; APIs</h3>
+      <p>Developed and extended <strong>ModuoCopil</strong>, a Django/PostgreSQL portal used by 50 employees. Built its authenticated REST API so other applications can reuse project and team data.</p>
+      <p><code>Django</code> <code>PostgreSQL</code> <code>OpenAPI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Applied AI &amp; retrieval</h3>
+      <p>Built <strong>MODUO Chat</strong> with hybrid document retrieval, source citations and resumable indexing. At Siigo, evaluated an AI assistant against more than 200 reference question-answer pairs.</p>
+      <p><code>Python</code> <code>RAG</code> <code>Evaluation</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Delivery &amp; reliability</h3>
+      <p>Built CI/CD tooling for Docker deployments with automated tests, health checks and rollback. Designed OIDC single sign-on for six internal applications.</p>
+      <p><code>Docker</code> <code>GitHub Actions</code> <code>OIDC</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Technical collaboration</h3>
+      <p>Led four engineering students through planning and technical reviews for a university-policy assistant at <strong>Universidad Nacional de Colombia</strong>.</p>
+      <p><code>Planning</code> <code>Technical reviews</code> <code>Teamwork</code></p>
+    </td>
+  </tr>
+</table>
 
-At **MODUO Ingénierie**, I work as an AI Software Architect. I collaborate with engineers and domain experts to turn construction workflows into software and automation. My interests include reliable data pipelines, distributed systems and observability.
-
-## Professional work
-
-- **Internal platforms and APIs:** developed and extended ModuoCopil, a Django/PostgreSQL portal used by 50 employees, and built its authenticated REST API to make project and team data reusable across applications.
-- **Applied AI:** built MODUO Chat with hybrid document retrieval, source citations and resumable indexing. Earlier, at Siigo, I worked on an AI assistant and evaluated responses against more than 200 reference question-answer pairs.
-- **Delivery and reliability:** built CI/CD tooling for Docker deployments with automated tests, health checks and rollback; designed OIDC single sign-on for six internal applications.
-- **Collaboration:** led four engineering students through planning and technical reviews for a university-policy assistant at Universidad Nacional de Colombia.
-
-My professional work focuses on internal company systems. The repositories below showcase public personal projects and coursework.
+<br />
 
 ## Selected public work
 
-| Project | Focus |
-| --- | --- |
-| [Portfolio](https://github.com/Manuelma4/manuelma4.github.io) | Personal website presenting my experience, projects and technical background in English, French and Spanish. [Visit the site →](https://manuelma4.github.io/) |
-| [Algorithms coursework](https://github.com/Manuelma4/AlgorithmsUN2022II) | Individual and group Python notebooks exploring sorting, recurrence sequences and algorithm complexity. |
-| [Wash Your Hands](https://github.com/Manuelma4/Wash-Your-Hands) | Android coursework in Java: a handwashing timer, instructional screens and Firebase integration. |
+My professional work involves internal company systems. These repositories showcase personal projects and university coursework.
 
-## Technical toolkit
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://manuelma4.github.io/">Personal portfolio ↗</a></h3>
+      <p>Experience, project case studies and technical background, presented in English, French and Spanish.</p>
+      <p><code>JavaScript</code> <code>HTML</code> <code>CSS</code> &nbsp; <a href="https://github.com/Manuelma4/manuelma4.github.io">Explore the source →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Manuelma4/AlgorithmsUN2022II">Algorithms &amp; complexity →</a></h3>
+      <p>Sorting, recurrence sequences and complexity analysis through individual and group computational experiments.</p>
+      <p><code>Python</code> <code>Jupyter</code> <code>Coursework</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Manuelma4/Wash-Your-Hands">Wash Your Hands →</a></h3>
+      <p>Android coursework with a handwashing timer, instructional screens and Firebase integration.</p>
+      <p><code>Java</code> <code>Android</code> <code>Firebase</code></p>
+    </td>
+  </tr>
+</table>
 
-| Area | Technologies |
-| --- | --- |
-| Backend and APIs | Python, TypeScript/JavaScript, Go, Django, FastAPI, Flask, Node.js, REST/OpenAPI |
-| Data engineering | SQL, PostgreSQL, MongoDB, ETL, data modeling, Azure, AWS S3, Databricks |
-| Delivery and operations | Docker, Linux, GitHub Actions, automated testing, CI/CD, OIDC/SSO |
-| Applied AI | RAG, hybrid retrieval, Ollama, ChromaDB, Azure OpenAI, Azure AI Search, evaluation |
+<br />
 
-## Background
+## Tools I work with
 
-Completed studies in Systems and Computer Engineering at **Universidad Nacional de Colombia**, the engineering programme in Data Science and MODS at **Télécom Paris**, and the M2 IREN double-degree programme at **Dauphine–PSL**.
+**Backend** &nbsp; Python · TypeScript/JavaScript · Go · Django · FastAPI · Flask · Node.js
 
-**Languages:** Spanish (native), English (C1), French (C1).
+**Data** &nbsp; SQL · PostgreSQL · MongoDB · ETL · Databricks · Azure · AWS S3
 
-I enjoy learning unfamiliar domains, discussing design decisions and following a project through to deployment and maintenance.
+**Delivery** &nbsp; Docker · Linux · GitHub Actions · Automated testing · CI/CD
+
+**Applied AI** &nbsp; RAG · Ollama · ChromaDB · Azure OpenAI · Azure AI Search
+
+<br />
+
+## Education &amp; perspective
+
+Completed studies across Colombia and France, combining software engineering, data science and digital economics.
+
+| Institution | Programme |
+| :--- | :--- |
+| **Universidad Nacional de Colombia** | Systems and Computer Engineering |
+| **Télécom Paris** | Engineering programme · Data Science and MODS |
+| **Dauphine–PSL** | M2 IREN double-degree programme |
+
+<br />
+
+<p align="center">
+  <strong>Spanish</strong> Native &nbsp; · &nbsp; <strong>English</strong> C1 &nbsp; · &nbsp; <strong>French</strong> C1
+</p>
+
+<p align="center">
+  <a href="https://manuelma4.github.io/">Explore my work</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/manueldmaya/">Let's connect</a>
+</p>

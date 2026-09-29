@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="310" viewBox="0 0 600 310" role="img" aria-labelledby="title description">
+  <title id="title">Manuel David Maya Rosero</title>
+  <desc id="description">Software engineer in Paris. Data engineering, backend systems and applied AI.</desc>
+  <defs><clipPath id="rounded"><rect width="600" height="310" rx="16"/></clipPath></defs>
+  <g clip-path="url(#rounded)">
+    <rect width="600" height="310" fill="#101b31"/>
+    <circle cx="590" cy="290" r="200" fill="#8e9dff" opacity="0.035"/>
+    <circle cx="590" cy="290" r="145" fill="none" stroke="#8e9dff" stroke-opacity="0.07"/>
+    <rect x="34" y="36" width="26" height="3" rx="1.5" fill="#85a4ff"/>
+    <text font-family="Arial" x="74" y="44" font-size="14" font-weight="600" letter-spacing="1.6" fill="#b8c6e4">SOFTWARE ENGINEER</text>
+    <text font-family="Arial" x="32" y="111" font-size="43" font-weight="600" fill="#f3f6ff">Manuel David</text>
+    <text font-family="Arial" x="32" y="160" font-size="43" font-weight="600" fill="#f3f6ff">Maya Rosero</text>
+    <text font-family="Arial" x="34" y="208" font-size="20" fill="#bacbfa">Data engineering · Backend systems</text>
+    <text font-family="Arial" x="34" y="238" font-size="20" fill="#bacbfa">Applied AI</text>
+    <circle cx="38" cy="276" r="4" fill="#6adfc9"/>
+    <text font-family="Arial" x="51" y="282" font-size="16" fill="#bac6dd">Paris, France</text>
+    <path d="M466 66 L487 54 L508 66 V90 L487 102 L466 90 Z M466 66 L487 78 L508 66 M487 78 V102" fill="none" stroke="#85a4ff" stroke-width="1.4"/>
+    <path d="M487 103 V143 H538 V180" fill="none" stroke="#8094c3" stroke-width="1.3"/>
+    <circle cx="538" cy="184" r="4" fill="#6adfc9"/>
+  </g>
+</svg>

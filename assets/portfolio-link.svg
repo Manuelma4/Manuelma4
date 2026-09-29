@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="34" viewBox="0 0 162 34" role="img" aria-label="Explore my portfolio">
+  <rect x="0.5" y="0.5" width="161" height="33" rx="7" fill="#26375f" stroke="#50638b"/>
+  <text x="16" y="22" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#f3f6ff">Explore my portfolio</text>
+  <path d="M142 19 L148 13 M142 13 H148 V19" stroke="#9edfd5" stroke-width="1.2" fill="none"/>
+</svg>
