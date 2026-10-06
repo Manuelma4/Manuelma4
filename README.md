@@ -16,7 +16,7 @@ I build data workflows, AI assistants and backend applications, from data prepar
 
 Completed studies at Universidad Nacional de Colombia (Systems and Computer Engineering), Télécom Paris (Data Science and MODS), and Dauphine–PSL (M2 IREN).
 
-**Core tools:** Python · TypeScript · Go · SQL · Django · Flask · React · PostgreSQL · Azure · Docker
+**Core tools:** Python · TypeScript · Go · SQL · Django · FastAPI · Flask · React · PostgreSQL · Azure · Docker
 
 **Languages:** Spanish (native) · English (C1) · French (C1)
 
