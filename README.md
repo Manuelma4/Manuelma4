@@ -14,10 +14,10 @@ I build data workflows, AI assistants and backend applications, from data prepar
 
 ### Featured portfolio projects
 
-- **[Arena Lakehouse](https://github.com/Manuelma4/arena-lakehouse)** — Football and professional VALORANT data engineering: incremental Spark/Delta pipelines, streaming replay, late corrections, recovery, quality gates, CC0 football acquisition and point-in-time prediction baselines. Includes measured local evidence and an optional Databricks profile.
+- **[Arena Lakehouse](https://github.com/Manuelma4/arena-lakehouse)** — Football and competitive VALORANT data engineering: incremental Spark/Delta pipelines, streaming replay, late corrections, recovery, quality gates, CC0 football acquisition and point-in-time prediction baselines. Includes measured local evidence and an optional Databricks profile.
 - **[Arena Copilot](https://github.com/Manuelma4/lakehouse-copilot)** — React/TypeScript analyst workspace with Python/FastAPI, local Ollama, bounded LangGraph tools, hybrid retrieval, citations, checkpoints and MLflow OSS tracing. **[Explore the public research workspace](https://manuelma4.github.io/lakehouse-copilot/).**
 
-Both projects retain original synthetic fixtures for reproducible demos. The football research view also publishes a separately validated OpenFootball CC0 package: 2,727 records across nine source editions, with explicit coverage and source precision. Real VALORANT provider coverage, calibrated real-team forecasting and the human-reviewed AI scorecard remain documented roadmap work.
+Both projects retain original synthetic fixtures for reproducible demos. The football research view also publishes a separately validated OpenFootball CC0 package: 2,831 records across ten source editions, including 104 World Cup matches and 48 national teams. Source team profiles and a separate research assistant preserve imported coverage, score stages and clock precision. Real VALORANT provider coverage, calibrated real-team forecasting and the human-reviewed AI scorecard remain documented roadmap work.
 
 ### Background
 
